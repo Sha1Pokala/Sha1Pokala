@@ -45,8 +45,8 @@ I believe in **continuous learning and problem-solving**, and my work spans acro
 ✅ **Salesforce Administrator Certification**  
 ✅ **Snowflake Hands-On Essentials: Data Warehouse**  
 ✅ **Deloitte Australia Data Analytics Job Simulation – Forage**
-✅**Microsoft Certified: Power BI Data Analyst Associate (PL- 300)**
-✅**Tata Data Visualization: Empowering Business with Effective Insights Job Simulation on Forage - March 2025**
+✅ **Microsoft Certified: Power BI Data Analyst Associate (PL- 300)**
+✅ **Tata Data Visualization: Empowering Business with Effective Insights Job Simulation on Forage - March 2025**
 
 ---
 
