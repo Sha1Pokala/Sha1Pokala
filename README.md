@@ -19,21 +19,6 @@ I believe in **continuous learning and problem-solving**, exploring technologies
 
 ---
 
-## 📜 Experience  
-
-### **ZS Associates Pvt. Ltd (2021 - 2022) | Business Technology Solutions Associate**  
-- Developed **Power BI & Tableau dashboards** to enhance decision-making  
-- Applied **SQL & ETL techniques** to streamline data workflows  
-- Managed **Agile sprints with Jira**, improving task tracking  
-- Enhanced **data processing and visualization workflows** for greater operational efficiency  
-
-### **Arthashastra Intelligence Databases (2019 - 2020) | Jr. Business Analyst**  
-- Conducted **SQL-based data analysis** to optimize business processes  
-- Automated **financial analysis** in Excel, improving reporting efficiency  
-- Worked with **APIs, CSV files, and ETL tools** for business optimization  
-
----
-
 ## 📚 Education  
 
 🎓 **Master of Science, Information Systems** – Saint Louis University (GPA: 3.94)  
